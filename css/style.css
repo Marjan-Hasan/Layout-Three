@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* header section start */
+.head{
+    overflow: hidden;
+    
+
+}
+.logo{
+    float: left;
+    background-color: #b8e994;
+    width: 20%;
+    height: 50px;
+    
+}
+.info{
+    float:left;
+    background-color: #78e08f;
+    width: 80%;
+    height: 50px;
+
+}
+/* header section ends  */
+
+/* menu bar start  */
+.menu{
+    background-color: #1e3799;
+    height: 50px;
+}
+/* menu bar end  */
+
+/* large block start  */
+.large_block{
+    overflow: hidden;
+    height: 600px;
+}
+.right{
+    height: 100%;
+    float: left;
+    width: 40%;
+}
+.right_one{
+    background-color: #ef5777;
+    height: 25%;
+    width: 100%;
+}
+.right_two{
+    background-color: #ff5e57;
+    height: 25%;
+    width: 100%;
+}
+.right_three{
+    background-color: #ff3f34;
+    height: 50%;
+    width: 100%;
+}
+.center{
+    height: 100%;
+    float: left;
+    width: 40%;
+}
+.links{
+    background-color: #4bcffa;
+    height: 30%;
+    width: 100%;
+}
+.link_list{
+    background-color: #0fbcf9;
+    height: 70%;
+    width: 100%;
+}
+.left{
+    height: 100%;
+    float: left;
+    width: 20%;
+}
+.left_one{
+    background-color: #485460;
+    height: 20%;
+    width: 100%;
+}
+.left_two{
+    background-color: #1e272e;
+    height: 50%;
+    width: 100%;
+}
+.left_three{
+    background-color: #cd6133;
+    height: 30%;
+    width: 100%;
+}
+/* large block end */
+
+/* footer section start  */
+footer{
+    background-color: #3867d6;
+    height: 50px;
+}
+/* footer section end  */
